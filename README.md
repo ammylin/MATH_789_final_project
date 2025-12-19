@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MATH 789 Final Project
 ## Measuring Credit Card Portfolio Risk: A Vasicek Model Approach with Monte Carlo Simulation
 
@@ -95,6 +94,3 @@ To reproduce the Monte Carlo simulations:
 
 ## Acknowledgments
 This project was developed as part of the graduate curriculum for MATH 789 at Duke University. Special thanks to Professor David Ye for guidance on the application of the Vasicek model to retail credit portfolios.
-=======
-# MATH_789_final_project
->>>>>>> 54569ddbc98c0977b5e23c0cc504d6d3e593a0e3
