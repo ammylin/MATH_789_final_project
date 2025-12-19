@@ -43,7 +43,7 @@ $$L_{m} = \sum_{i=1}^{N} D_{i,m} \cdot C_{i}$$
 We performed **$M=10,000$ iterations** for a portfolio of **$N=30,000$ clients**.
 
 ## Data Source
-The analysis utilizes the "Credit Card Clients" dataset from Taiwan, covering the period from April 2005 to September 2005. 
+The analysis utilizes the [**Default of Credit Card Clients Dataset**](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset) from Kaggle, covering the period from April 2005 to September 2005. 
 * **Sample Size:** 30,000 clients.
 * **Key Insight:** Default probabilities in the dataset ranged from 3% to 22.15%.
 * **Demographics:** The portfolio is predominantly female and composed of single, well-educated individuals (University/Graduate school level).
